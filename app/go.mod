@@ -1,3 +1,3 @@
-module balena_first
+module app
 
 go 1.17
